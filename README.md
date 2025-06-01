@@ -1,6 +1,9 @@
-# my-first-project
+#my_first_project
+#it's a simple game Rock, Paper, Scissors
 
-Rock, Paper, scissors, game it's simple project
+that's the code:
+
+
 
 import random
 
